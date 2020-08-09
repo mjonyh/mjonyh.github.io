@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mymensingh Division on SERS-CoV-2 in Bangladesh</title>
+    <link>https://mjonyh.github.io/mymensingh/</link>
+    <description>Recent content in Mymensingh Division on SERS-CoV-2 in Bangladesh</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 17 Oct 2017 15:26:15 +0000</lastBuildDate>
+    
+	<atom:link href="https://mjonyh.github.io/mymensingh/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Jamalpur</title>
+      <link>https://mjonyh.github.io/mymensingh/jamalpur/</link>
+      <pubDate>Tue, 17 Oct 2017 15:26:15 +0000</pubDate>
+      
+      <guid>https://mjonyh.github.io/mymensingh/jamalpur/</guid>
+      <description>Estimation of the Cases  The Rt and doubling times </description>
+    </item>
+    
+    <item>
+      <title>Mymensingh</title>
+      <link>https://mjonyh.github.io/mymensingh/mymensingh/</link>
+      <pubDate>Tue, 17 Oct 2017 15:26:15 +0000</pubDate>
+      
+      <guid>https://mjonyh.github.io/mymensingh/mymensingh/</guid>
+      <description>Estimation of the Cases  The Rt and doubling times  </description>
+    </item>
+    
+    <item>
+      <title>Netrakona</title>
+      <link>https://mjonyh.github.io/mymensingh/netrakona/</link>
+      <pubDate>Tue, 17 Oct 2017 15:26:15 +0000</pubDate>
+      
+      <guid>https://mjonyh.github.io/mymensingh/netrakona/</guid>
+      <description>Estimation of the Cases  The Rt and doubling times  </description>
+    </item>
+    
+    <item>
+      <title>Sherpur</title>
+      <link>https://mjonyh.github.io/mymensingh/sherpur/</link>
+      <pubDate>Tue, 17 Oct 2017 15:26:15 +0000</pubDate>
+      
+      <guid>https://mjonyh.github.io/mymensingh/sherpur/</guid>
+      <description>Estimation of the Cases  The Rt and doubling times  </description>
+    </item>
+    
+  </channel>
+</rss>
