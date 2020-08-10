@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sylhet Division on SERS-CoV-2 in Bangladesh</title>
+    <link>https://mjonyh.github.io/sylhet/</link>
+    <description>Recent content in Sylhet Division on SERS-CoV-2 in Bangladesh</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 17 Oct 2017 15:26:15 +0000</lastBuildDate>
+    
+	<atom:link href="https://mjonyh.github.io/sylhet/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Habiganj</title>
+      <link>https://mjonyh.github.io/sylhet/habiganj/</link>
+      <pubDate>Tue, 17 Oct 2017 15:26:15 +0000</pubDate>
+      
+      <guid>https://mjonyh.github.io/sylhet/habiganj/</guid>
+      <description>Estimation of the Cases  The Rt and doubling times  </description>
+    </item>
+    
+    <item>
+      <title>Maulvi Bazar</title>
+      <link>https://mjonyh.github.io/sylhet/maulvibazar/</link>
+      <pubDate>Tue, 17 Oct 2017 15:26:15 +0000</pubDate>
+      
+      <guid>https://mjonyh.github.io/sylhet/maulvibazar/</guid>
+      <description>Estimation of the Cases  The Rt and doubling times  </description>
+    </item>
+    
+    <item>
+      <title>Sunamganj</title>
+      <link>https://mjonyh.github.io/sylhet/sunamganj/</link>
+      <pubDate>Tue, 17 Oct 2017 15:26:15 +0000</pubDate>
+      
+      <guid>https://mjonyh.github.io/sylhet/sunamganj/</guid>
+      <description>Estimation of the Cases  The Rt and doubling times  </description>
+    </item>
+    
+    <item>
+      <title>Sylhet</title>
+      <link>https://mjonyh.github.io/sylhet/sylhet/</link>
+      <pubDate>Tue, 17 Oct 2017 15:26:15 +0000</pubDate>
+      
+      <guid>https://mjonyh.github.io/sylhet/sylhet/</guid>
+      <description>Estimation of the Cases  The Rt and doubling times  </description>
+    </item>
+    
+  </channel>
+</rss>
